@@ -172,3 +172,23 @@ footer a:hover {
     padding: 2rem 1rem;
   }
 }
+
+/* Mode gelap */
+.dark-mode {
+  background: #111;
+  color: #f1f1f1;
+}
+
+.dark-mode header {
+  background: #000;
+}
+
+.dark-mode footer {
+  background: #000;
+  color: #aaa;
+}
+
+.dark-mode .card {
+  background: #222;
+  color: #f1f1f1;
+}
