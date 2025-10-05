@@ -192,3 +192,39 @@ footer a:hover {
   background: #222;
   color: #f1f1f1;
 }
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+form {
+  display: inline-block;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 2rem;
+}
+
+input {
+  padding: .5rem;
+  margin-top: .3rem;
+  width: 200px;
+}
+
+button {
+  padding: .5rem 1rem;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
